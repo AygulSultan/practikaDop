@@ -14,9 +14,6 @@ public class Esep { public void calc(int numeric) {
             else {System.out.println("Bolunboyt");
                 break;
             }
-
-
-
         }
         else {
             break;
